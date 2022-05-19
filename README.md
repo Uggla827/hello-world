@@ -1,9 +1,15 @@
-# hello-world
+# H1
+## H2
+## H3
+I just love **bold text**
 
-Hej!
-
-Idag ska jag försöka att använda GitHub. Det ser toppen ut. Jag tror att jag kommer att lära mig jättemycket från den.
-
-Mvh,
-
-/Wang
+Italicized text is the *cat's meow*
+1. First item
+2. Second item
+3. Third item
+- First item
+- Second item
+- Third item
+At the command prompt, type `nano`.
+---
+> Dorothy followed her through many of the beautiful rooms in her castle.
